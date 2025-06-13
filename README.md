@@ -10,6 +10,7 @@ The objective of this repository is to compare the performance of various popula
 
 The dataset used in this project is a structured tabular dataset containing information about user sessions on an e-commerce website. Each row represents a session with behavioral and technical attributes, as well as whether it ended in a transaction.
 
+- **Source:** [Online Shoppers Purchasing Intention Dataset – UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset)
 - **Total Records:** 12,330  
 - **Target Variable:** `Revenue` (True if a purchase occurred, otherwise False)  
 - **Features include:**  
